@@ -1,0 +1,1 @@
+Sitemap: https://nmcdev.github.io/nmc_met_blog/sitemap.xml
